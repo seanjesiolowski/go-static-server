@@ -1,4 +1,4 @@
-# go-static-server
+# Go Static Server
 
 A tiny Go static file server with browser auto-reload. No dependencies.
 
